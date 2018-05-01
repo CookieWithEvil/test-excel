@@ -1,0 +1,18 @@
+table{
+	border-collapse: collapse;
+}
+
+tr,th,td{
+	min-height: 50px;
+	min-width: 50px;
+	border: 1px solid gray;
+}
+th{
+	background: silver;
+}
+
+input[type="text"]{
+	outline: none;
+	border: none;
+	background: none;	
+}
